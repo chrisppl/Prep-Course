@@ -7,6 +7,8 @@
 
 
 .divClass span{
+    display: block;
+    text-align: center;
     font-size: 18px;
     margin: 50px;
     
@@ -19,12 +21,16 @@ h3, h4{
 
 #thirdDiv{
 
+    margin-top: 100px;
+    margin-left: 350px;
     height: 600px;
     width: 500px;
     background-color: rgb(182, 182, 219);
     padding: 50px;
     border: solid 5px rgb(7, 14, 51);
     margin-top: 0px
+   
+    
     
 }
 

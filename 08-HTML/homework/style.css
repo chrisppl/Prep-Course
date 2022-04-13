@@ -1,0 +1,35 @@
+.divClass h1{
+    text-align: center;
+    color: rgb(61, 54, 163);
+    background-color: rgb(182, 182, 219);
+    border: solid  5px rgb(7, 14, 51)
+}
+
+
+.divClass span{
+    font-size: 18px;
+    margin: 50px;
+    
+}
+
+h3, h4{
+    text-align: center;
+}
+
+
+#thirdDiv{
+
+    height: 600px;
+    width: 500px;
+    background-color: rgb(182, 182, 219);
+    padding: 50px;
+    border: solid 5px rgb(7, 14, 51);
+    margin-top: 0px
+    
+}
+
+img{
+    
+    width: 400px;
+}
+

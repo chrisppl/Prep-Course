@@ -1,0 +1,66 @@
+h1{
+    text-align: center;
+    background-color: rgb(185, 164, 212);
+    border: solid 5px rgb(7, 14, 51);
+}
+
+h2{
+    text-align: center;
+    background-color: rgb(170, 170, 230);
+
+}
+
+.datosPersonales{
+    
+    text-align: center;
+    background-color:rgb(185, 161, 216);
+    font-size: large;
+
+}
+ul{
+    list-style-type: none;
+
+
+}
+.experienciaLaboral{
+    
+    text-align: center;
+    font-size: large;
+    background-color: rgb(185, 161, 216);
+    
+}
+.skills{
+    text-align: center;
+    font-size: large;
+}
+
+
+
+
+p{
+    text-align: center;
+    font-size: large;
+    color: rgb(40, 19, 66); 
+}
+
+
+
+article{
+    text-align: center;
+}
+
+h3, h4{
+    text-align: center;
+    color: rgb(50, 16, 82);
+}
+
+
+img{
+    display: block;
+    margin-left: 450px;
+    width: 350px;
+    
+    
+  
+}
+    
